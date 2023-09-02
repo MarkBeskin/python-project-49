@@ -7,11 +7,12 @@ readme = "README.md"
 packages = [{include = "brain_games"}]
 
 [tool.poetry.scripts]
-brain-games = "brain_games.scripts.brain_games:main"
+brain-games = "brain_games.scripts.brain_game:main"
 
 
 [tool.poetry.dependencies]
 python = "^3.11"
+prompt = "^0.4.1"
 
 
 [build-system]
