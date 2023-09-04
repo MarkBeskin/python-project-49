@@ -17,3 +17,6 @@ package-install:
 # решением стало сменить pip на pipx 
 ubuntu-package-install:
 	python3 -m pipx install dist/*.whl
+
+lint:
+	poetry run flake8 brain_games
