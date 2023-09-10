@@ -15,8 +15,12 @@ package-install:
 # тут у меня появилась проблема с pip - при применении команды выходила ошибка
 # error: externally-managed-environment
 # решением стало сменить pip на pipx 
+
 ubuntu-package-install:
 	python3 -m pipx install dist/*.whl
 
 lint:
 	poetry run flake8 brain_games
+
+brain-even:
+	poetry run brain-even
