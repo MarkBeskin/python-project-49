@@ -14,6 +14,7 @@ brain-even = "brain_games.scripts.brain_even:main"
 [tool.poetry.dependencies]
 python = "^3.11"
 prompt = "^0.4.1"
+pip = "^23.2.1"
 
 
 [tool.poetry.group.dev.dependencies]
