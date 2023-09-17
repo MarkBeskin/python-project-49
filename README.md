@@ -6,3 +6,6 @@
 
 brain_even 
 [![asciicast](https://asciinema.org/a/xecUDBrCuIjIcm0RkPXikp1Ui.svg)](https://asciinema.org/a/xecUDBrCuIjIcm0RkPXikp1Ui)
+
+brain_calc
+[![asciicast](https://asciinema.org/a/JGCJNSm8xCdHWReu4Y2Hgxmmt.svg)](https://asciinema.org/a/JGCJNSm8xCdHWReu4Y2Hgxmmt)
