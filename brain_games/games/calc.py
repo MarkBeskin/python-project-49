@@ -31,4 +31,4 @@ def calc_game():
             print('Correct!')
             cor_answr_count += 1
             if cor_answr_count == 3:
-                print('Coungratulations,' + name + '!')
+                print('Coungratulations, ' + name + '!')
