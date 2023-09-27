@@ -13,15 +13,15 @@ def gcd_game():
         number1 = randint(1, 50)
         number2 = randint(1, 50)
         print(f'Question: {number1} {number2}')
-        join = prompt.integer('Your answer: ')
+        answer = prompt.integer('Your answer: ')
         cor_gcd = math.gcd(number1, number2)
-        if join == cor_gcd:
+        if answer == cor_gcd:
             cor_answr_count += 1
             print('Correct!')
         else:
             cor_answr_count = 4
             print(
-                f"'{join}' is wrong answer ;(. "
+                f"'{answer}' is wrong answer ;(. "
                 f"Correct answer was '{cor_gcd}'\nLet's "
                 f"try again, {name}!")
         if cor_answr_count == 3:

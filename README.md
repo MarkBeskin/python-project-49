@@ -9,3 +9,9 @@ brain_even
 
 brain_calc
 [![asciicast](https://asciinema.org/a/JGCJNSm8xCdHWReu4Y2Hgxmmt.svg)](https://asciinema.org/a/JGCJNSm8xCdHWReu4Y2Hgxmmt)
+
+brain_gcd
+[![asciicast](https://asciinema.org/a/3UlB3ZGZuhvIoHnVd3D23f7O1.svg)](https://asciinema.org/a/3UlB3ZGZuhvIoHnVd3D23f7O1)
+
+brain_progression
+[![asciicast](https://asciinema.org/a/qTCHEDdtqcMCZkZOdmLkuhdVH.svg)](https://asciinema.org/a/qTCHEDdtqcMCZkZOdmLkuhdVH)
